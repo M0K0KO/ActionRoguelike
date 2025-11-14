@@ -1,0 +1,2 @@
+C:\PORTFOLIO\Unreal Engine\ActionRoguelike\ActionRoguelike\Intermediate\Build\Win64\UE4Editor\Development\ActionRoguelike\Definitions.ActionRoguelike.h
+C:\PORTFOLIO\Unreal Engine\ActionRoguelike\ActionRoguelike\Source\ActionRoguelike\ActionRoguelike.h
